@@ -1,0 +1,23 @@
+# Configuration files
+includes/config.php
+
+# Uploaded user content only
+uploads/profiles/*
+uploads/properties/*
+!uploads/profiles/.gitkeep
+!uploads/properties/.gitkeep
+
+# Keep all assets and images
+!images/
+!assets/
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

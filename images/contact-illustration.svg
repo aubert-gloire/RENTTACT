@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background circle -->
+    <circle cx="200" cy="150" r="120" fill="#D1E6D5" opacity="0.3"/>
+    
+    <!-- House -->
+    <path d="M200 80L260 140H140L200 80Z" fill="#333"/>
+    <rect x="160" y="140" width="80" height="60" fill="#333"/>
+    <rect x="190" y="160" width="20" height="40" fill="#D1E6D5"/>
+    
+    <!-- Chat bubble -->
+    <path d="M280 160C280 138.461 262.539 121 241 121C219.461 121 202 138.461 202 160C202 181.539 219.461 199 241 199V215L257 199H280V160Z" fill="#333"/>
+    
+    <!-- Message lines -->
+    <line x1="220" y1="150" x2="262" y2="150" stroke="#D1E6D5" stroke-width="4"/>
+    <line x1="220" y1="160" x2="252" y2="160" stroke="#D1E6D5" stroke-width="4"/>
+    <line x1="220" y1="170" x2="242" y2="170" stroke="#D1E6D5" stroke-width="4"/>
+</svg>
