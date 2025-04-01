@@ -21,18 +21,18 @@ RENTTACT is a web-based property rental management system that connects landlord
   - View property details
   - Search properties by location and price
 
-## Requirements
+## Requirements for setting up the project
 
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - Apache web server
-- XAMPP (recommended) or similar local development environment
+- XAMPP (recommended) or similar local development environment (DOWNLOAD)
 
 ## Installation
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/renttact.git
+   git clone https://github.com/aubert-gloire/RENTTACT.git
    ```
 
 2. **Database Setup**
