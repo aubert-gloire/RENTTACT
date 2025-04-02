@@ -130,4 +130,6 @@ document.getElementById('togglePassword').addEventListener('click', function() {
 })();
 </script>
 
-<?php $db->close(); ?>
+<?php if (isset($db)) {
+    $db->close();
+}?>
